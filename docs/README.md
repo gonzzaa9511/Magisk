@@ -1,6 +1,6 @@
 # Magisk Documentation
 
-- [Installation Instructions](install.md)
+- [Installation Intructions](install.md)
 - [Frequently Asked Questions](faq.md)
 - [Release Notes](releases/index.md)
 - [Magisk Changelog](changes.md)
