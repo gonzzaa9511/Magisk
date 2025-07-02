@@ -76,7 +76,7 @@
 
 ### v26.2
 
-- [MagiskBoot] Support extracting boot image from `payload.bin`
+- [MagiskBoot] Support extracting boot image from `load.bin`
 - [MagiskBoot] Support cpio files containing character files
 - [MagiskBoot] Support listing cpio content
 - [MagiskBoot] Directly handle AVB 1.0 signing and verification without going through Java implementation
